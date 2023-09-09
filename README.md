@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Sabeshini
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c and python
 - 📫 How to reach me ?
 - You can reach me by my email: sabeshinimochbts2003@gmail.com
+- You can reach out to me on LinkedIn:  www.linkedin.com/in/sabeshinimohan
