@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Sabeshini
-- 🌱 I’m currently learning c and python
+- 🌱 I’m currently learning focusing on full stack development
 - 📫 How to reach me ?
 - You can reach me by my email: sabeshinimochbts2003@gmail.com
+- Secondary email: sabeshini777@gmail.com
 - You can reach out to me on LinkedIn:  www.linkedin.com/in/sabeshinimohan
