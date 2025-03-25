@@ -74,7 +74,7 @@ A **passionate Full Stack Developer** from India with experience in **web develo
     <img src="https://github-readme-stats.vercel.app/api?username=sabeshini&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=sabeshini" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=sabeshini&raw=true" alt="GitHub Streak" />
 </p>
 
 ---
