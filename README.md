@@ -1,11 +1,11 @@
-## 🚀 **Sabeshini - Full Stack Developer**  
+## 🚀 **Sabeshini**  
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=sabeshini&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ### 👋 **Hi, I'm Sabeshini!**  
-A **passionate Full Stack Developer** from India with experience in **web development, machine learning, and problem-solving**. I enjoy building scalable web applications and working on cutting-edge technology.  
+A **passionate student** from India with experience in **web development, machine learning, and problem-solving**. I enjoy building scalable web applications and working on cutting-edge technology.  
 
 📫 **Get in touch:** [sabeshini777@gmail.com](mailto:sabeshini777@gmail.com)  
 🌐 **Portfolio:** [sabeshini-portfolio.netlify.app](https://sabeshini-portfolio.netlify.app)  
